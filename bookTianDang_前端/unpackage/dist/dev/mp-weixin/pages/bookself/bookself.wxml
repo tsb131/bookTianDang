@@ -1,0 +1,1 @@
+<view><view class="navibar"><button data-event-opts="{{[['tap',[['Clicked1',['$event']]]]]}}" bindtap="__e">我的书架</button><button data-event-opts="{{[['tap',[['Clicked2',['$event']]]]]}}" bindtap="__e">下拉菜单</button></view></view>

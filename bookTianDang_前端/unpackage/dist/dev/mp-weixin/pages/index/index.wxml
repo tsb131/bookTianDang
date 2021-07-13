@@ -1,0 +1,1 @@
+<view class="content"><navigator url="/pages/register/load/load"><button type="default">登录</button></navigator><navigator url="/pages/register/load/register/register"><button type="default">注册</button></navigator></view>
